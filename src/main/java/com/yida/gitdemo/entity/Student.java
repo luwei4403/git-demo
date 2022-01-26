@@ -23,7 +23,7 @@ public class Student {
     }
 
     public String getName() {
-        return name;
+        return name+"先生";
     }
 
     public void setName(String name) {
